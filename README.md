@@ -7,3 +7,5 @@ Telegram bot with which you can control your computer
 3. Open the terminal in the target folder and execute `pip install -r requirements.txt`.
 4. Enter `py setup.py` and answer the following questions
 5. When everything is ready write `py main.py`
+
+To contact, write here: [WezerSupport](https://t.me/WezerSupportBot)
