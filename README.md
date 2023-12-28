@@ -1,7 +1,8 @@
 # RemoteBot
 Telegram bot with which you can control your computer
 
-![Снимок экрана 2023-12-17 131211](https://github.com/Wezer1223/remotebot/assets/107412708/823c7b04-e20f-4a6d-9587-a16ece34224b)
+
+https://github.com/Wezer1223/remotebot/assets/107412708/6bcef8c4-6979-4a93-8c44-dfe6282a07ea
 
 # Guide
 1. Create a Telegram bot using [BotFather](https://t.me/BotFather)
