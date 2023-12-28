@@ -1,4 +1,4 @@
-aiogram==1.8
+aiogram==2.8
 keyboard==0.13.5
 pyautogui==0.9.54
 opencv-python==4.8.1.78
